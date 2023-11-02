@@ -1,0 +1,4 @@
+a=55
+b=a/5
+fot i n range(b)
+	print(a)
